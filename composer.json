@@ -1,0 +1,15 @@
+{
+    "name": "hypertext/PHP5-Shape-File-Parser",
+    "description": "geometry class, shape, kml, wkt",
+    "type": "library",
+    "keywords": ["shapefile", "shape", "shp", "dbf", "esri"],
+    "authors": [
+        {
+            "name": "Brandon Morrison",
+            "role": "Developer"
+        }
+    ]
+    "require": {
+        "php": "^5.0",
+    }
+}
