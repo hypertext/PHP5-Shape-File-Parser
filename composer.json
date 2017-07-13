@@ -1,5 +1,5 @@
 {
-    "name": "hypertext/php5-shape-file-parser ",
+    "name": "hypertext/php5_shapefile_parser",
     "description": "geometry class, shape, kml, wkt",
     "type": "library",
     "keywords": ["shapefile", "shape", "shp", "dbf", "esri"],
